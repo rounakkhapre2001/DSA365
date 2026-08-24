@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/0002-add-two-numbers) |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rounakkhapre2001/DSA365/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -42,4 +44,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
