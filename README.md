@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
 | [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rounakkhapre2001/DSA365/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rounakkhapre2001/DSA365/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
