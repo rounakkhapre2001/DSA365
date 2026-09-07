@@ -63,6 +63,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rounakkhapre2001/DSA365/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -87,6 +88,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rounakkhapre2001/DSA365/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rounakkhapre2001/DSA365/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rounakkhapre2001/DSA365/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
