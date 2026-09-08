@@ -34,6 +34,7 @@
 | [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rounakkhapre2001/DSA365/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/rounakkhapre2001/DSA365/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rounakkhapre2001/DSA365/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
