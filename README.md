@@ -140,4 +140,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rounakkhapre2001/DSA365/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rounakkhapre2001/DSA365/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rounakkhapre2001/DSA365/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rounakkhapre2001/DSA365/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
