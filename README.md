@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rounakkhapre2001/DSA365/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rounakkhapre2001/DSA365/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rounakkhapre2001/DSA365/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
@@ -217,6 +219,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -227,6 +230,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rounakkhapre2001/DSA365/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rounakkhapre2001/DSA365/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
