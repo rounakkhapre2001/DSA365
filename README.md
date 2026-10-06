@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -129,6 +130,7 @@
 | [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -162,6 +164,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -246,4 +249,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rounakkhapre2001/DSA365/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rounakkhapre2001/DSA365/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
