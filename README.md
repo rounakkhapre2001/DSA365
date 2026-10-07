@@ -76,6 +76,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rounakkhapre2001/DSA365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -94,6 +95,7 @@
 | [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
+| [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -157,6 +159,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rounakkhapre2001/DSA365/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -256,4 +259,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
