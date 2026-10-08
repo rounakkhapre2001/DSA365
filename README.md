@@ -134,6 +134,7 @@
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -216,6 +217,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rounakkhapre2001/DSA365/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0032-longest-valid-parentheses) |
+| [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
