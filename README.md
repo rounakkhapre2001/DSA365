@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rounakkhapre2001/DSA365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rounakkhapre2001/DSA365/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -222,6 +223,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -242,11 +244,13 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rounakkhapre2001/DSA365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rounakkhapre2001/DSA365/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rounakkhapre2001/DSA365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Manacher
@@ -262,6 +266,7 @@
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
+| [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rounakkhapre2001/DSA365/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
