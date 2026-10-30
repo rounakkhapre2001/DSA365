@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/0002-add-two-numbers) |
+| [0390-elimination-game](https://github.com/rounakkhapre2001/DSA365/tree/master/0390-elimination-game) |
 | [0836-rectangle-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rounakkhapre2001/DSA365/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/0002-add-two-numbers) |
+| [0390-elimination-game](https://github.com/rounakkhapre2001/DSA365/tree/master/0390-elimination-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
