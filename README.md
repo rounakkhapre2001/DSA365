@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rounakkhapre2001/DSA365/tree/master/0004-median-of-two-sorted-arrays) |
+| [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rounakkhapre2001/DSA365/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/rounakkhapre2001/DSA365/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rounakkhapre2001/DSA365/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -292,6 +295,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rounakkhapre2001/DSA365/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Segment Tree
@@ -365,4 +369,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rounakkhapre2001/DSA365/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
