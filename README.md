@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rounakkhapre2001/DSA365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -74,6 +75,7 @@
 | [0390-elimination-game](https://github.com/rounakkhapre2001/DSA365/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rounakkhapre2001/DSA365/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/rounakkhapre2001/DSA365/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rounakkhapre2001/DSA365/tree/master/2089-find-target-indices-after-sorting-array) |
