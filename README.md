@@ -139,6 +139,7 @@
 | [0022-generate-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rounakkhapre2001/DSA365/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/rounakkhapre2001/DSA365/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -184,6 +185,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/rounakkhapre2001/DSA365/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rounakkhapre2001/DSA365/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rounakkhapre2001/DSA365/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/rounakkhapre2001/DSA365/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
