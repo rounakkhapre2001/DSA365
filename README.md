@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rounakkhapre2001/DSA365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rounakkhapre2001/DSA365/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/rounakkhapre2001/DSA365/tree/master/0393-utf-8-validation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/rounakkhapre2001/DSA365/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/rounakkhapre2001/DSA365/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rounakkhapre2001/DSA365/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
