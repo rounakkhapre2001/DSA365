@@ -208,6 +208,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rounakkhapre2001/DSA365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rounakkhapre2001/DSA365/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rounakkhapre2001/DSA365/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rounakkhapre2001/DSA365/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
