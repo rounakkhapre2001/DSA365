@@ -107,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/rounakkhapre2001/DSA365/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -200,6 +201,7 @@
 | [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/rounakkhapre2001/DSA365/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rounakkhapre2001/DSA365/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0032-longest-valid-parentheses) |
 | [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
