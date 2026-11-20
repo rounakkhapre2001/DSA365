@@ -9,6 +9,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rounakkhapre2001/DSA365/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/rounakkhapre2001/DSA365/tree/master/0393-utf-8-validation) |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
@@ -207,6 +208,7 @@
 | [0389-find-the-difference](https://github.com/rounakkhapre2001/DSA365/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rounakkhapre2001/DSA365/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -278,6 +280,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0301-remove-invalid-parentheses) |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rounakkhapre2001/DSA365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -328,6 +332,7 @@
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rounakkhapre2001/DSA365/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rounakkhapre2001/DSA365/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -413,10 +418,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rounakkhapre2001/DSA365/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rounakkhapre2001/DSA365/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sweep Line
 |  |
@@ -448,4 +455,12 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/rounakkhapre2001/DSA365/tree/master/0398-random-pick-index) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
