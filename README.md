@@ -14,6 +14,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rounakkhapre2001/DSA365/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -93,6 +94,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rounakkhapre2001/DSA365/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rounakkhapre2001/DSA365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rounakkhapre2001/DSA365/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rounakkhapre2001/DSA365/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rounakkhapre2001/DSA365/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -469,4 +472,12 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
