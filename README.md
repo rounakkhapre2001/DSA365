@@ -92,6 +92,7 @@
 | [0390-elimination-game](https://github.com/rounakkhapre2001/DSA365/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/rounakkhapre2001/DSA365/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/rounakkhapre2001/DSA365/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/rounakkhapre2001/DSA365/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/rounakkhapre2001/DSA365/tree/master/0836-rectangle-overlap) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rounakkhapre2001/DSA365/tree/master/0004-median-of-two-sorted-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rounakkhapre2001/DSA365/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0400-nth-digit](https://github.com/rounakkhapre2001/DSA365/tree/master/0400-nth-digit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rounakkhapre2001/DSA365/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rounakkhapre2001/DSA365/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rounakkhapre2001/DSA365/tree/master/2089-find-target-indices-after-sorting-array) |
