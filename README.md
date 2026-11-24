@@ -37,6 +37,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rounakkhapre2001/DSA365/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rounakkhapre2001/DSA365/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rounakkhapre2001/DSA365/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rounakkhapre2001/DSA365/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rounakkhapre2001/DSA365/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/3483-unique-3-digit-even-numbers) |
@@ -101,6 +102,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rounakkhapre2001/DSA365/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rounakkhapre2001/DSA365/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rounakkhapre2001/DSA365/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/rounakkhapre2001/DSA365/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rounakkhapre2001/DSA365/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rounakkhapre2001/DSA365/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rounakkhapre2001/DSA365/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rounakkhapre2001/DSA365/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rounakkhapre2001/DSA365/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rounakkhapre2001/DSA365/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rounakkhapre2001/DSA365/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rounakkhapre2001/DSA365/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
@@ -272,6 +276,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rounakkhapre2001/DSA365/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rounakkhapre2001/DSA365/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rounakkhapre2001/DSA365/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
