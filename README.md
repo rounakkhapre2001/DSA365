@@ -223,6 +223,7 @@
 | [0392-is-subsequence](https://github.com/rounakkhapre2001/DSA365/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/rounakkhapre2001/DSA365/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/rounakkhapre2001/DSA365/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/0940-distinct-subsequences-ii) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/rounakkhapre2001/DSA365/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/rounakkhapre2001/DSA365/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rounakkhapre2001/DSA365/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rounakkhapre2001/DSA365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -387,6 +389,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0032-longest-valid-parentheses) |
 | [0388-longest-absolute-file-path](https://github.com/rounakkhapre2001/DSA365/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/rounakkhapre2001/DSA365/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/rounakkhapre2001/DSA365/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rounakkhapre2001/DSA365/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/1096-brace-expansion-ii) |
@@ -463,6 +466,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/rounakkhapre2001/DSA365/tree/master/0402-remove-k-digits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rounakkhapre2001/DSA365/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
