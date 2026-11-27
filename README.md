@@ -59,6 +59,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/rounakkhapre2001/DSA365/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/rounakkhapre2001/DSA365/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/rounakkhapre2001/DSA365/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rounakkhapre2001/DSA365/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/rounakkhapre2001/DSA365/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/rounakkhapre2001/DSA365/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rounakkhapre2001/DSA365/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rounakkhapre2001/DSA365/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rounakkhapre2001/DSA365/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rounakkhapre2001/DSA365/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rounakkhapre2001/DSA365/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rounakkhapre2001/DSA365/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting
 |  |
 | ------- |
